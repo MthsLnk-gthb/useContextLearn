@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin: 1vh auto;
+}
+
+nav>ul{
+    display: flex;
+}
+
+.link-do-nav{
+    margin: auto 2vw;
+    text-decoration: none;
+    color: #003aaf;
+    font-size: 1.4rem;
+}
+.link-do-nav:hover{
+    text-decoration: underline;
+}
