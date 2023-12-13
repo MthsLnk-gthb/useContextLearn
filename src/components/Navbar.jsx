@@ -9,7 +9,7 @@ const Navbar = () => {
     <>
       <header>
         <nav>
-          <Link to="/" className="link-do-nav">
+          <Link to="/useContextLearn" className="link-do-nav">
             Home
           </Link>
           <Link to="/useContextLearn/contact" className="link-do-nav">
